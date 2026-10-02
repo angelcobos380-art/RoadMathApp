@@ -60,6 +60,17 @@ Al completar un ejercicio, el progreso se actualiza automáticamente en el roadm
 | Perfil / progreso | Dominio por tema, estadísticas, racha e insignias |
 
 ---
+
+ ## Prototipos
+
+<img width="200" height="400" alt="Main" src="https://github.com/user-attachments/assets/c761e52a-8d2b-4397-adc4-70bb8f19e515" />
+<img width="200" height="400" alt="2-Roadmap_crop" src="https://github.com/user-attachments/assets/71f95acd-2436-4634-aab2-1763639354b4" />
+<img width="200" height="400" alt="3_Lesson_Screen" src="https://github.com/user-attachments/assets/55559bd3-1ca3-475b-9b36-d472e6b398fe" />
+<img width="200" height="400" alt="4-Exercise_Screen" src="https://github.com/user-attachments/assets/80052fb2-dd54-4426-8918-3fade99293aa" />
+
+
+
+--- 
 <!-- 
 ## Diseño visual
 
